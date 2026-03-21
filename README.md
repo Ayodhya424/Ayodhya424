@@ -1,47 +1,92 @@
-<h1 align="center">Hi 👋, I'm Ayodhya Kushwaha</h1>
+
 
 ---
 
-<h2>About Me</h2>
-- 🔭 I’m currently working on Machine Learning project
+### 💫 About Me
+- 🔭 **Currently Focus:** Leading Machine Learning projects and refining predictive models.
+- 🌱 **Learning Path:** Deepening expertise in **Node.js**, **JavaScript**, and **Advanced Python**.
+- 👯 **Collaboration:** Open to contributing to **Data Science** and **AI-driven** open-source projects.
+- 💬 **Ask Me About:** C++, python,Android.
+- 📫 **Contact:** Reach out at [ayodhyakushwaha424@gmail.com](mailto:ayodhyakushwaha424@gmail.com)
+- ⚡ Fun fact:
 
-- 🌱 I’m currently learning **Python,JavaScript and Nodes.**
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/4b650a45-367b-428c-9bf1-e6075631a6df" />
 
-- 👯 I’m looking to collaborate on **Data Science project.**
-
-- 💬 Ask me about **C++**
-
-- 📫 How to reach me:- [**ayodhyakushwaha424@gmail.com**]
-
-  ---
-
-## <h3 align="left">My Skills:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+  
 
 ---
 
-## <h3>Top Languages</h3>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayodhya424&show_icons=true&locale=en&layout=compact" alt="ayodhya424" />
+### 🛠️ Tech Stack & Skills
+
+<table>
+  <tr>
+    <td align="center" width="25%"><strong>Languages</strong></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+      <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%"><strong>AI & Data Science</strong></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+      <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%"><strong>Backend & Dev</strong></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%"><strong>Tools & Cloud</strong></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Github Performance
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayodhya424&layout=compact&theme=tokyonight" height="175" width="500" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ayodhya424&show_icons=true&theme=tokyonight" height="175" width="500" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayodhya424&theme=tokyonight" alt="GitHub Streak" width="500" />
 </p>
 
 ---
 
-## <h3>GitHub Stats</h3>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ayodhya424&show_icons=true&locale=en" alt="ayodhya424" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayodhya424" alt="ayodhya424" />
-</p>
-
----
-
-<h3 align="left">Connect with me:</h3>
+### 🌐 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ayodhaya-kushwaha-158643277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayodhaya-kushwaha-158643277" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/ayodhyakushwaha424" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ayodhyakushwaha424" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/ayodhya_kush" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/ayodhya_kush" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/ayodhya424" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/ayodhya424" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayodhaya-kushwaha-158643277" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" /></a> 
+<a href="https://www.kaggle.com/ayodhyakushwaha424" target="blank"><img src="https://img.shields.io/badge/-Kaggle-008bb9?style=flat&logo=Kaggle&logoColor=white" /></a> 
+<a href="https://www.codechef.com/users/ayodhya_kush" target="blank"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=CodeChef&logoColor=white" /></a>
+<a href="https://www.geeksforgeeks.org/profile/ayodhya424" target="blank"><img src="https://img.shields.io/badge/-GeeksForGeeks-298D46?style=flat&logo=GeeksforGeeks&logoColor=white" /></a>
+</p>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=ayodhya424&color=blueviolet" alt="Profile Views" /> 
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Connect+with+me+on+LinkedIn+and+Kaggle;Keep+Coding+Keep+Learning...." alt="Typing SVG" />
 </p>
