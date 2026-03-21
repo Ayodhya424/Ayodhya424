@@ -1,6 +1,6 @@
-
-
----
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
 
 ### 💫 About Me
 - 🔭 **Currently Focus:** Leading Machine Learning projects and refining predictive models.
