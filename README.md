@@ -74,3 +74,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Connect+with+me+on+LinkedIn+and+Kaggle;Keep+Coding+Keep+Learning...." alt="Typing SVG" />
 </p>
+<audio controls>
+  <source src="https://raw.githubusercontent.com/Ayodhya424/Audio/main/Ayodhya.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+
+
