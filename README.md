@@ -43,15 +43,16 @@
 
 ---
 
-### 📊 Github Performance
+## 📊 GitHub Performance Dashboard
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayodhya424&layout=compact&theme=tokyonight" height="175" width="500" />
 </p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ayodhya424&show_icons=true&theme=tokyonight" height="175" width="500" />
-</p>
+</p> -->
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayodhya424&theme=tokyonight" alt="GitHub Streak" width="500" />
@@ -59,7 +60,7 @@
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 <p align="left">
 <a href="https://linkedin.com/in/ayodhaya-kushwaha-158643277" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" /></a> 
 <a href="https://www.kaggle.com/ayodhyakushwaha424" target="blank"><img src="https://img.shields.io/badge/-Kaggle-008bb9?style=flat&logo=Kaggle&logoColor=white" /></a> 
