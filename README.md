@@ -10,7 +10,7 @@
 - 📫 **Contact:** Reach out at [ayodhyakushwaha424@gmail.com](mailto:ayodhyakushwaha424@gmail.com)
 - ⚡ Fun fact:
 
-<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/4b650a45-367b-428c-9bf1-e6075631a6df" />
+<!--<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/4b650a45-367b-428c-9bf1-e6075631a6df" /> -->
 
   
 
